@@ -17,7 +17,7 @@
   <img alt="Cucumber" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" />&nbsp;&nbsp;
   <img alt="Selenium WebDriver" width="35" src="https://www.selenium.dev/images/logos/webdriver.svg">&nbsp;&nbsp;
   <img alt="Postman" width="40" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">&nbsp;&nbsp;
-  <img alt="Artillery" width="35" src="https://artillery.io/docs/img/artillery-logo-notext.png">&nbsp;&nbsp;
+  <img alt="Artillery" width="35" src="https://www.artillery.io/img/logo-artillery.jpg">&nbsp;&nbsp;
   <img alt="Apache Jmeter" width="100" src="https://jmeter.apache.org/images/logo.svg">&nbsp;&nbsp;
   <img alt="MySql" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;
   <img alt="PostgreSql" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> &nbsp;&nbsp;
